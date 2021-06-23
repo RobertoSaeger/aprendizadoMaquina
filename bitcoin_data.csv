@@ -1,4 +1,4 @@
-Timestamp,Open,High,Low,Close,Volume,VolumeC,Weighted Price
+Date,Open,High,Low,Close,Volume,VolumeC,Weighted Price
 1/1/17 0:00,966.34,1005,960.53,997.75,6850.59,6764742.06,987.47
 1/2/17 0:00,997.75,1032,990.01,1012.54,8167.38,8273576.99,1013
 1/3/17 0:00,1011.44,1039,999.99,1035.24,9089.66,9276500.31,1020.56
